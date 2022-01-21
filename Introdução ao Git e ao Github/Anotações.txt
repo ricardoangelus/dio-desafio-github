@@ -1,1 +1,12 @@
-- Git Bash
+Utilização via Git Bash
+
+1º - git clone
+2º - acesso ao diretório do Git Bash (terminal) onde está localizado os arquivos baixados via git clone
+3º - trabalhando dentro do repositório, utilização do comando git status para a conferência do status dos arquivos baixados na máquina
+4º - criação da pasta "Introdução ao Git e ao Github"
+5º - criação do arquivo txt "Anotações" e inserção das anotações pertinentes
+6º - retornar ao terminal e utilizar o comando git status (alterações indentificadas!!!)
+7º - utilização do comando git add . para adicionar todos os arquivos
+8º - utilização do comando git commit -m "(mensagem desejada referente a alteração)"
+9º - utilização do comando git push para o envio das alterações para a plataforma do Github
+10º - utilização do comando git status para verificar se os arquivos foram enviados com sucesso
